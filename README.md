@@ -63,7 +63,6 @@ Universidad Santo Tomás • Bogotá, Colombia 🇨🇴
 <p align="center">
 
 <img src="https://raw.githubusercontent.com/DsantiagoLM/DsantiagoLM/output/github-contribution-grid-snake.svg">
-
 </p>
 
 ---
